@@ -75,9 +75,9 @@
 
 ---
 ### 🔥 My Open Source Contributions  
-- 🌟 **[Quick Notes App](https://github.com/premwizard/quick-notes-app)** (React + Express + MongoDB)  
-- 🚀 **[JavaScript Concepts](https://github.com/premwizard/JAVA-SCRIPT-Concepts)** (JS Mastery Collection)  
-- 🌱 **[ML Plant Disease Detection](https://github.com/premwizard/plant-disease-detection)** (Machine Learning with Python)  
+- 🌟 **[AI Dietitian](https://github.com/Keerthu4646/AI-Dietitian)** (AI-based Diet Recommendation System)  
+- 🚀 **[Basic Student Signup Form](https://github.com/Keerthu4646/BASIC-STUDENT-SIGNUP-FORM)** (Simple Form for Student Registration)  
+- 🌱 **[Drag and Drop API in HTML](https://github.com/Keerthu4646/Drag-and-Drop-API-in-HTML)** (HTML Drag and Drop API Implementation)  
 
 ---
 ### 🌐 Let's Connect
