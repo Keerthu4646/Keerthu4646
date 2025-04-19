@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm KEERTHANA 👋</h1>
-
+<h1 align="center">Hi, I'm KEERTHANA 👋
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=FFFFFF&center=true&width=600&lines=ML+Enthusiast;Full+Stack+Developer;UI/UX+Designer" alt="Typing Animation" />
 </p>
@@ -10,7 +11,8 @@
 </p>
 <br><br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 
  ## 💡 About Me
 
@@ -23,7 +25,8 @@
 🚀 Aiming for **FAANG-level opportunities**  
 📈 Focused on writing clean, efficient code & building meaningful tech  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
@@ -57,28 +60,33 @@
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keerthu4646&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Keerthu4646?theme=dark&font=Dokdo&ext=heatmap)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 
 [![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthu4646&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 ### 🔥 My Open Source Contributions  
 - 🌟 **[AI Dietitian](https://github.com/Keerthu4646/AI-Dietitian)** (AI-based Diet Recommendation System)  
 - 🚀 **[Basic Student Signup Form](https://github.com/Keerthu4646/BASIC-STUDENT-SIGNUP-FORM)** (Simple Form for Student Registration)  
 - 🌱 **[Drag and Drop API in HTML](https://github.com/Keerthu4646/Drag-and-Drop-API-in-HTML)** (HTML Drag and Drop API Implementation)  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 ### 🌐 Let's Connect
 <p align="center"> 
   <a href="https://github.com/Keerthu4646"> 
@@ -89,7 +97,8 @@
   </a> 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
+<br><br>
 
 🚀 **Let's build something amazing together!** 🚀
 
