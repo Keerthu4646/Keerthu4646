@@ -70,7 +70,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 <br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Keerthu4646?theme=dark&font=Dokdo&ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Keerthu4646?theme=dark&font=Noto%20Sans%20Tai%20Tham&ext=heatmap)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 <br><br>
