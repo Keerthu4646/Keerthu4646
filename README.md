@@ -70,7 +70,7 @@
 
 ---
 
-[![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthu4646&hide=stars,commits)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthu4646)](https://github.com/Keerthu4646)
 
 ---
 ### 🔥 My Open Source Contributions  
