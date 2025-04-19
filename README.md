@@ -62,7 +62,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premwizard&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerthu4646&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=premwizard&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthu4646&hide=stars,commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🔥 My Open Source Contributions  
