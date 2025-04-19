@@ -70,7 +70,8 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthu4646)](https://github.com/Keerthu4646)
+[![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthu4646&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 ### 🔥 My Open Source Contributions  
