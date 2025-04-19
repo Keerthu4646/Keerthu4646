@@ -81,7 +81,14 @@
 
 ---
 ### 🌐 Let's Connect
-<p align="center"> <a href="https://github.com/Keerthu4646"> <img src="https://img.shields.io/badge/GitHub-@premwizard-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/keerthana-dharuman"> <img src="https://img.shields.io/badge/LinkedIn-M. Prem-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> </p>
+<p align="center"> 
+  <a href="https://github.com/Keerthu4646"> 
+    <img src="https://img.shields.io/badge/GitHub-@Keerthu4646-181717?style=for-the-badge&logo=github" alt="GitHub"> 
+  </a> 
+  <a href="https://www.linkedin.com/in/keerthana-dharuman"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Keerthana%20Dharuman-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"> 
+  </a> 
+</p>
 
 ---
 
