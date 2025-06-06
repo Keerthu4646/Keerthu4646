@@ -12,7 +12,6 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
  ## 💡 About Me
 
@@ -22,7 +21,6 @@
 📈 Focused on writing clean, efficient code & building meaningful tech  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
@@ -43,7 +41,6 @@
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -51,18 +48,21 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
+### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Keerthu4646?theme=dark&font=Noto%20Sans%20Tai%20Tham&ext=heatmap)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
-[![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthu4646&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+### LeetCode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Keerthu4646&theme=black" alt="LeetCode Badges" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
+
+### Github Activity Graph
+[![Keerthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthu4646&bg_color=000000&color=ffffff&line=ff0000&point=00ffcc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
 ### 🔥 My Open Source Contributions  
 - 🌟 **[AI Dietitian](https://github.com/Keerthu4646/AI-Dietitian)** (AI-based Diet Recommendation System)  
@@ -70,7 +70,6 @@
 - 🌱 **[Drag and Drop API in HTML](https://github.com/Keerthu4646/Drag-and-Drop-API-in-HTML)** (HTML Drag and Drop API Implementation)  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 ### 🌐 Let's Connect
 <p align="center"> 
@@ -83,7 +82,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
-<br><br>
 
 🚀 **Let's build something amazing together!** 🚀
 
