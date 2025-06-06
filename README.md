@@ -24,21 +24,31 @@
 
 ### 🔥 My Tech Stack  
 💻 **Programming Languages**  
-<img width="50" height="50"  alt="Python" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="50" height="50" alt="JavaScript" src="https://img.icons8.com/ios-filled/50/javascript.png" alt="javascript"/>
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgFill=3776AB" alt="Python" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgFill=F7DF1E" alt="JavaScript" />
+</a>
+</p>
 
 🖥️ **Frontend**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgFill=E34F26" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgFill=1572B6" />
+</a>
+</p>
 
 📡 **Other Tools & Tech**  
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/visual-studio.png" alt="visual-studio"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/tableau-software.png" alt="tableau-software"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/adobe-logo.png" alt="adobe-logo"/>
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgFill=F05032" alt="Git" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgFill=F24E1E" alt="Figma" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudio&svgFill=007ACC" alt="VS Code" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pycharm&svgFill=519ABA" alt="PyCharm" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tableau&animation=spin&svgFill=E97627" alt="Tableau" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgFill=00C4CC" alt="Canva" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=adobe&svgFill=FF0000" alt="Adobe" />
+<a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="5000">
 
