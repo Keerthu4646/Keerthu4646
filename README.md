@@ -39,6 +39,11 @@
 </a>
 </p>
 
+⚙️ **Backend & Databases**  
+<p align="left">
+<a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgFill=092E20" alt="Django" />
+
 📡 **Other Tools & Tech**  
 <a>
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgFill=F05032" alt="Git" />
